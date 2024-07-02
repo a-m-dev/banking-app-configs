@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to banking Loans related LOCAL APIs"
+  contactDetails:
+    name: "Ahmad Mirzaei - Developer"
+    email: "amdev@gmail.com"
+  onCallSupport:
+    - (046) 987654321
+    - (046) 123456789

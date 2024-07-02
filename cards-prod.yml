@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to banking Cards related PROD APIs"
+  contactDetails:
+    name: "Person #01 - Product Owner"
+    email: "productOwner@gmail.com"
+  onCallSupport:
+    - (041) 987654321
+    - (041) 123456789

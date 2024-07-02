@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to banking accounts related LOCAL APIs"
+  contactDetails:
+    name: "Ahmad Mirzaei - Developer"
+    email: "amdev@gmail.com"
+  onCallSupport:
+    - (046) 987654321
+    - (046) 123456789
