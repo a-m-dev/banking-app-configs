@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to banking accounts related PROD APIs"
   contactDetails:
     name: "Person #01 - Product Owner"
-    email: "productOwner@gmail.com"
+    email: "{cipher}361c545bafdad3b8735a34fded12aa76b5088d50171b2796d89a942033a29b5a2d7bda6789bf0f9c76b9b8562db87f05"
   onCallSupport:
     - (041) 987654321
     - (041) 123456789
