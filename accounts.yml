@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to banking accounts related LOCAL #02 APIs"
+  message: "Welcome to banking accounts related LOCAL APIs"
   contactDetails:
     name: "Ahmad Mirzaei - Developer"
     email: "amdev@gmail.com"
