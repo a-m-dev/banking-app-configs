@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to banking Loans related PROD #02 APIs"
+  message: "Welcome to banking Loans related PROD #03 APIs"
   contactDetails:
     name: "Person #01 - Product Owner"
     email: "productOwner@gmail.com"
