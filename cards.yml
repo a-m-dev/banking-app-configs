@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to banking Cards related LOCAL APIs"
+  message: "Welcome to banking Cards related LOCAL #01 APIs"
   contactDetails:
     name: "Ahmad Mirzaei - Developer"
     email: "amdev@gmail.com"
